@@ -1,0 +1,7 @@
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\guia4_parte1\guia4_parte1\bin\Debug\guia4_parte1.exe.config
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\guia4_parte1\guia4_parte1\bin\Debug\guia4_parte1.exe
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\guia4_parte1\guia4_parte1\bin\Debug\guia4_parte1.pdb
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\guia4_parte1\guia4_parte1\obj\Debug\guia4_parte1.csproj.AssemblyReference.cache
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\guia4_parte1\guia4_parte1\obj\Debug\guia4_parte1.csproj.CoreCompileInputs.cache
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\guia4_parte1\guia4_parte1\obj\Debug\guia4_parte1.exe
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\guia4_parte1\guia4_parte1\obj\Debug\guia4_parte1.pdb
